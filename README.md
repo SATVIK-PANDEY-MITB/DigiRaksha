@@ -1,23 +1,23 @@
 # DigiRaksha 🛡️
 
-**The Future of Tourist Safety. Arrived.**
+**Tourist safety, reimagined for the digital age.**
 
-DigiRaksha is a cutting-edge web application designed to enhance tourist safety through digital innovation. It addresses key challenges in the tourism industry with a comprehensive solution.
+DigiRaksha is a modern web application built to strengthen tourist safety through digital innovation. It tackles the major challenges in tourism with a complete, practical solution.
 
 ## 🚀 Features
 
-- **Problem Analysis**: In-depth look at current safety challenges.
-- **Innovative Solution**: AI-driven safety measures and real-time assistance.
-- **Tech Stack**: Built with modern web technologies for performance and scalability.
-- **Impact Assessment**: Evaluating the positive effects on the tourism ecosystem.
-- **Feasibility & Monetization**: Sustainable business model and implementation strategy.
+- **Problem Analysis**: A closer look at the safety challenges that exist today.
+- **Innovative Solution**: AI-powered safety support and real-time assistance.
+- **Tech Stack**: Developed with modern web technologies for speed and scalability.
+- **Impact Assessment**: Measuring the positive effect on the tourism ecosystem.
+- **Feasibility & Monetization**: A sustainable business model and rollout strategy.
 
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, TypeScript, Vite
 - **Styling**: Tailwind CSS
-- **Icons**: Custom SVG Icons
-- **Animation**: CSS Animations & Transitions
+- **Icons**: Custom SVG icons
+- **Animation**: CSS animations and transitions
 
 ## 🏃‍♂️ Getting Started
 
@@ -26,21 +26,21 @@ DigiRaksha is a cutting-edge web application designed to enhance tourist safety 
    git clone https://github.com/anchit-goel/digiraksha.git
    ```
 
-2. **Install dependencies**
+2. **Install the dependencies**
    ```bash
    npm install
    ```
 
-3. **Run the development server**
+3. **Start the development server**
    ```bash
    npm run dev
    ```
 
-4. **Open in browser**
-   Navigate to `http://localhost:3001`
+4. **Open it in your browser**
+   Go to `http://localhost:3001`
 
 ## 📂 Project Structure
 
 - `components/`: Reusable UI components and icons.
 - `components/sections/`: Individual sections of the landing page.
-- `App.tsx`: Main application component assembling all sections.
+- `App.tsx`: The main application component that brings all sections together.
